@@ -1,4 +1,5 @@
 
+*.pyc
 venv/*
 docs/.*
 connect_prod.sh
