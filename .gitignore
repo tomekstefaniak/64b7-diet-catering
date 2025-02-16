@@ -1,0 +1,5 @@
+
+venv/*
+docs/.*
+./connect_prod.sh
+credentials/credentials_prod.json
